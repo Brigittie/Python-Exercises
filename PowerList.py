@@ -3,27 +3,6 @@
 create a list with all the square powers for the numbers between 1 and 10
 not just printing them one by one, store them and then print all of them at once
 
-actually, the append() method is covered on the first link, so you don't need to read the second
-the third link is because it's cool and fun
-do it anyway
-
-the only nudge I might want to give is the following: let's say a list of the first 3 numbers is [1,2,3]
-and a list of two numbers is [42, 24]
-a list of a single number is [666]
-which is different from the number itself
-print 666 == [666]
-it will say False
-so, recapping
-[1,2,3]
-[42,24]
-[666]
-what would an empty list look like?
-
-that's why you check their length normally before accessing them
-in order not to exceed their bounds
-"""
-
-"""
 testList= [12, 24, 48, 36, 72]
 
 print (testList)
@@ -74,6 +53,7 @@ print (letterList)
 #make a list, containing other lists
 letters = ["a","b","c"]
 numbers = [1,2,3]
+
 """
 
 powerList = []
