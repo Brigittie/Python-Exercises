@@ -1,7 +1,5 @@
 """
-
-create a list with all the square powers for the numbers between 1 and 10
-not just printing them one by one, store them and then print all of them at once
+Exercises:
 
 testList= [12, 24, 48, 36, 72]
 
@@ -53,6 +51,13 @@ print (letterList)
 #make a list, containing other lists
 letters = ["a","b","c"]
 numbers = [1,2,3]
+
+"""
+
+"""
+Problem:
+create a list with all the square powers for the numbers between 1 and 10
+not just printing them one by one, store them and then print all of them at once
 
 """
 
