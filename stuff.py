@@ -1,4 +1,4 @@
-string = "I\'m not sure how many characters this sentence has"
+string = "I\'m not sure how many characters this sentence has" 
 name = "Brigittie"
 
 uppertest = "i will want to convert these to upper case"
