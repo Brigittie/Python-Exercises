@@ -48,7 +48,7 @@ c = 350
 #else print finito
 
 
-#turtle.pensize(b)
+#turtle.pensize(b) 
 
 while ((z > 0) and (c > 0)):
     square(x, y, z)
